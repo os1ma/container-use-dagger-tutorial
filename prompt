@@ -1,0 +1,10 @@
+## 開発する内容
+Create 2 variations of a simple hello world app using Flask and FastAPI. each in their own environment. Give me the URL of each app
+
+## 開発の仕方
+
+```
+claude -p "指示"
+```
+
+というコマンドを環境に送信してclaudeに実装させてください。
